@@ -1,4 +1,4 @@
-Player,Team,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA
+Player,Team,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls p90,Ast p90,G+A p90,npG p90,npG+A p90,xG,npxG,xA,npxG+xA,xG p90,xA p90,xG+xA p90,npxG p90,npxG+xA p90
 Bukayo Saka,Arsenal,eng ENG,"FW,MF",19,38,36,"2,978",33.1,11,7,9,2,2,6,0,0.33,0.21,0.54,0.27,0.48,9.7,8.2,6.9,15.2,0.29,0.21,0.5,0.25,0.46
 Gabriel Dos Santos,Arsenal,br BRA,DF,23,35,35,"3,063",34,5,0,5,0,0,8,1,0.15,0,0.15,0.15,0.15,2.7,2.7,0.8,3.5,0.08,0.02,0.1,0.08,0.1
 Aaron Ramsdale,Arsenal,eng ENG,GK,23,34,34,"3,060",34,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
