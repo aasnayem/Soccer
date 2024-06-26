@@ -13,24 +13,24 @@ From the csv table, we have 30 columns which describe different things for an in
 ### Starts: The number of the matches that the player has started
 ### Min: The number of minutes that the player has played
 ### 90s: This is the number of minutes played divided by 90
-# Gls: This is the number of goals scored by the player
-# Ast: This is the number of assists given by the player
-# G-PK: This is the number of non penalty goals scored by the player
-# PK: This is the number of penalties socred by the player
-# PKatt : This is the number of penalty kicks attempted
-# CrdY : This is the number of yellow cards obtained
-# CrdR : This is the number of red cards obtained
-# Gls p90 : This is the number of goals scored per 90 mins
-# Ast p90: This is the number of assits per 90 mins
-# G+A p90: This is the number of goals and assists per 90 mins
-# npG p90: This is the number of non penalty goals scored per 90 mins
-# npG+A p90: This is the number of non penalty goals and assists per 90 mins
-# xG : This is the calculation of expected goals
-# npxG : This is the calculation of Non-Penalty Expected Goals
-# xA : This is the calculation of Expected Assits
-# npxG+xA : This is the calculation of Non-Penalty Expected Goals plus Expected Assists
-# xGp90 : This is the calculation fo Expected Goals per 90 mins
-# npxGp90 : This is the calculation of Non-Penalty Expected Goals per 90 mins
-# xAp90 : This is the calculation of Expected Assits per 90 mins
-# npxG+xAp90 : This is the calculation Non-Penalty Expected Goals plus Expected Assists per 90 mins
+### Gls: This is the number of goals scored by the player
+### Ast: This is the number of assists given by the player
+### G-PK: This is the number of non penalty goals scored by the player
+### PK: This is the number of penalties socred by the player
+### PKatt : This is the number of penalty kicks attempted
+### CrdY : This is the number of yellow cards obtained
+### CrdR : This is the number of red cards obtained
+### Gls p90 : This is the number of goals scored per 90 mins
+### Ast p90: This is the number of assits per 90 mins
+### G+A p90: This is the number of goals and assists per 90 mins
+### npG p90: This is the number of non penalty goals scored per 90 mins
+### npG+A p90: This is the number of non penalty goals and assists per 90 mins
+### xG : This is the calculation of expected goals
+### npxG : This is the calculation of Non-Penalty Expected Goals
+### xA : This is the calculation of Expected Assits
+### npxG+xA : This is the calculation of Non-Penalty Expected Goals plus Expected Assists
+### xGp90 : This is the calculation fo Expected Goals per 90 mins
+### npxGp90 : This is the calculation of Non-Penalty Expected Goals per 90 mins
+### xAp90 : This is the calculation of Expected Assits per 90 mins
+### npxG+xAp90 : This is the calculation Non-Penalty Expected Goals plus Expected Assists per 90 mins
 
