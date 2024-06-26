@@ -4,15 +4,15 @@ The data is collected from: https://www.kaggle.com/datasets/omkargowda/football-
 
 From the csv table, we have 30 columns which describe different things for an individual player. The columns are explained below.
 
-# Player: Name of the player
-# Team: The team that the players play for
-# Nation: The country that the players play for
-# Pos: The postion of the player in the field
-# Age: The age of the player
-# MP: The number of matches that the player has played
-# Starts: The number of the matches that the player has started
-# Min: The number of minutes that the player has played
-# 90s: This is the number of minutes played divided by 90
+### Player: Name of the player
+### Team: The team that the players play for
+### Nation: The country that the players play for
+### Pos: The postion of the player in the field
+### Age: The age of the player
+### MP: The number of matches that the player has played
+### Starts: The number of the matches that the player has started
+### Min: The number of minutes that the player has played
+### 90s: This is the number of minutes played divided by 90
 # Gls: This is the number of goals scored by the player
 # Ast: This is the number of assists given by the player
 # G-PK: This is the number of non penalty goals scored by the player
