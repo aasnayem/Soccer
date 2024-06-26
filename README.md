@@ -1,4 +1,9 @@
-In this project, we want to visualise the data for the soccer players of the 2021/22 Premier League season. Various plots are used to present the data in different ways. The data is collected from: https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022. Some of the columns names are updated for better clarification. From the csv table, we have 30 columns which describe different things for an individual player. The columns are explained below.
+In this project, we want to visualise the data for the soccer players of the 2021/22 Premier League season. Various plots are used to present the data in different ways.
+
+The data is collected from: https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022. Some of the columns names are updated for better clarification. 
+
+From the csv table, we have 30 columns which describe different things for an individual player. The columns are explained below.
+
 Player: Name of the player
 Team: The team that the players play for
 Nation: The country that the players play for
