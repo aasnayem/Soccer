@@ -1,4 +1,4 @@
-In this project, we want to visualise the data for the soccer players of the 2021/22 Premier League season. Various plots are used to present the data in different ways.
+In this project, we want to visualise the data for the soccer players of the 2021/22 Premier League season. Various plots are used to present the data in different ways. A predictive model was created to predict the Goals scored and Assists made by the players for the next season (2022/23). 
 
 The data is collected from: https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022. Some of the columns names are updated for better clarification. 
 
